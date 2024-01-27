@@ -2,3 +2,4 @@ data/images/train
 data/images/val
 data/labels/train
 data/labels/val
+.DS_Store
