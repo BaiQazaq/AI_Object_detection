@@ -1,0 +1,6 @@
+path: /Users/iqazaq/coding/SelfEducation/AI_traning/data
+train: images/train
+val: images/val
+
+nc: 3
+names: ['cardboard', 'glass', 'pet_bottle']
